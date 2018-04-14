@@ -24,3 +24,6 @@ if __name__ == "__main__":
             except ValueError:
                 report_file.write("Problem " + str(index) + ": Please enter your answer!\n")
     report_file.write("Your score is : " + str(score))
+
+    quiz_file.close()
+    report_file.close()

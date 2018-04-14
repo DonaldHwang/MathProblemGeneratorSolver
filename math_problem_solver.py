@@ -13,3 +13,6 @@ if __name__ == "__main__":
             exec("answer = " + question[12:-3])
             Question = question[12:-3].rstrip()
             answer_file.write("Question " + str(index) + " : " + Question + " = " + str(round(answer, 2)) + '\n')
+
+    quiz_file.close()
+    answer_file.close()

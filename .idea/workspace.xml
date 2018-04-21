@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08686675-1edd-4fc8-9eaf-c7298ce37f67" name="Default" comment="" />
+    <list default="true" id="08686675-1edd-4fc8-9eaf-c7298ce37f67" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_problem_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_problem_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_problem_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_problem_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_problem_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_problem_solver.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,20 +16,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/math_problem$math_problem_checker.coverage" NAME="math_problem_checker Coverage Results" MODIFIED="1523730652162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/math_problem$math_problem_generator.coverage" NAME="math_problem_generator Coverage Results" MODIFIED="1524061017185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/math_problem$math_problem_solver.coverage" NAME="math_problem_solver Coverage Results" MODIFIED="1523729697953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/math_problem$math_problem_checker.coverage" NAME="math_problem_checker Coverage Results" MODIFIED="1524318992381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/math_problem$math_problem_generator.coverage" NAME="math_problem_generator Coverage Results" MODIFIED="1524317142498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/math_problem$math_problem_solver.coverage" NAME="math_problem_solver Coverage Results" MODIFIED="1524318958345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="math_problem" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="math_problem_generator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="math_problem_generator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/math_problem_generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="23">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -40,8 +46,8 @@
       <file leaf-file-name="math_problem_solver.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/math_problem_solver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="393">
+              <caret line="18" column="104" lean-forward="true" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -55,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="math_problem_checker.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="math_problem_checker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/math_problem_checker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+            <state relative-caret-position="163">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -88,10 +94,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/math_problem_generator.py" />
         <option value="$PROJECT_DIR$/Answer.txt" />
         <option value="$PROJECT_DIR$/Report.txt" />
         <option value="$PROJECT_DIR$/Test.txt" />
+        <option value="$PROJECT_DIR$/math_problem_generator.py" />
         <option value="$PROJECT_DIR$/math_problem_solver.py" />
         <option value="$PROJECT_DIR$/math_problem_checker.py" />
       </list>
@@ -146,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.math_problem_generator">
+  <component name="RunManager" selected="Python.math_problem_checker">
     <configuration name="math_problem_checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="math_problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,9 +217,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.math_problem_generator" />
         <item itemvalue="Python.math_problem_checker" />
         <item itemvalue="Python.math_problem_solver" />
+        <item itemvalue="Python.math_problem_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +234,14 @@
       <option name="presentableId" value="Default" />
       <updated>1523693738521</updated>
     </task>
+    <task id="LOCAL-00001" summary="use for to create random number">
+      <created>1524061053653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524061053653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -241,15 +255,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005359" side_tool="true" weight="0.32914287" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914287" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4994641" weight="0.32914287" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914287" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3382857" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.2738478" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3382857" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.2813505" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -319,6 +334,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="use for to create random number" />
+    <option name="LAST_COMMIT_MESSAGE" value="use for to create random number" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -332,6 +351,55 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Report.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_problem_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_problem_solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Answer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_problem_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/math_problem_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -619,24 +687,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/math_problem_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/math_problem_solver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="393">
+          <caret line="18" column="104" lean-forward="true" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/math_problem_checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math_problem_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="163">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>

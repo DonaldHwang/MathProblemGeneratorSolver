@@ -1,3 +1,6 @@
+#! Python3
+# math_problem_checker.py - Check the answers by user, and give the scores
+
 if __name__ == "__main__":
     score = 0
     quiz_file = open('Test.txt')
@@ -12,6 +15,8 @@ if __name__ == "__main__":
         if question[0:8] == "Question":
             equal_sign = question.find("=")
             user_answer = 0
+
+            #  check the answer with the keys
             try:
                 user_answer = float(question[equal_sign+1:].strip())
                 answer = 0
@@ -22,7 +27,9 @@ if __name__ == "__main__":
                 else:
                     report_file.write("Problem " + str(index) + ": WRONG\n")
             except ValueError:
+                #  if user didn't do this question, it will warn the user to input the answer
                 report_file.write("Problem " + str(index) + ": Please enter your answer!\n")
+
     report_file.write("Your score is : " + str(score))
 
     quiz_file.close()
